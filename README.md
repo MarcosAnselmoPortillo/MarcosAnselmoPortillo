@@ -1,4 +1,4 @@
-# ¡Hola, soy Marcos Anselmo Portillo! 👋
+# Hello, I'm Marcos Anselmo Portillo! 👋
 
 [![LinkedIn](https://img.shields.io/badge/-Marcos_Anselmo_Portillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/marcos-anselmo-portillo-94318015/)](https://linkedin.com/in/marcos-anselmo-portillo-94318015/)
 [![Email](https://img.shields.io/badge/Email-marcosportillo111@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcosportillo111@gmail.com)](mailto:marcosportillo111@gmail.com)
@@ -6,62 +6,62 @@
 
 ---
 
-## Sobre Mí
+## About Me
 
-¡Bienvenido a mi perfil de GitHub! Soy **Marcos Anselmo Portillo**, un apasionado Backend Developer con una sólida formación como Analista Universitario de Sistemas. Me especializo en el desarrollo de soluciones backend utilizando tecnologías modernas y metodologías ágiles. Me encanta resolver problemas complejos y trabajar en equipo para crear aplicaciones eficientes y escalables.
+Welcome to my GitHub profile! I'm **Marcos Anselmo Portillo**, a passionate Backend Developer with a solid background as a Systems Analyst. I specialize in developing backend solutions using modern technologies and agile methodologies. I enjoy solving complex problems and working in teams to create efficient and scalable applications.
 
-## 🛠️ Tecnologías y Habilidades
+## 🛠️ Technologies and Skills
 
-- **Lenguajes de Programación:** JavaScript, TypeScript.
-- **Frameworks y Librerías:** NodeJS, NestJS.
-- **Base de Datos:** PostgreSQL.
-- **Control de Versiones:** Git.
-- **Metodologías:** Agile (Scrum).
-- **Otras Herramientas:** Jira, Confluence, Slack.
+- **Programming Languages:** JavaScript, TypeScript.
+- **Frameworks and Libraries:** NodeJS, NestJS.
+- **Databases:** PostgreSQL.
+- **Version Control:** Git.
+- **Methodologies:** Agile (Scrum).
+- **Other Tools:** Jira, Confluence, Slack.
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
 ### [Consorcify](https://github.com/samuel20468/consorcify)
 
-- **Descripción:** Aplicación integral para la gestión de consorcios, facilitando la comunicación y la administración entre administradores y propietarios/inquilinos.
-- **Tecnologías:** React, NextJs, Tailwind CSS, TypeScript, NestJS, TypeORM, PostgreSQL.
-- **Enlace al Proyecto:** [Repositorio en GitHub](https://github.com/samuel20468/consorcify)
+- **Description:** Comprehensive application for consortium management, facilitating communication and administration between managers and owners/tenants.
+- **Technologies:** React, NextJs, Tailwind CSS, TypeScript, NestJS, TypeORM, PostgreSQL.
+- **Project Link:** [GitHub Repository](https://github.com/samuel20468/consorcify)
 
-## 💼 Experiencia Profesional
+## 💼 Professional Experience
 
-- **Java Developer Junior** en [Globant](https://www.globant.com/) (jul. 2014 - sep. 2015)
-  - Soporte y mejora del sistema e-commerce de Southwest Airlines.
+- **Junior Java Developer** at [Globant](https://www.globant.com/) (Jul 2014 - Sep 2015)
+  - Support and improvement of Southwest Airlines' e-commerce system.
 
-- **Soporte al Cliente** en [VGM Sistemas](https://www.linkedin.com/company/vgm-sistemas/?originalSubdomain=ar) (nov. 2015 - sep. 2016)
-  - Gestión de consultas y soporte para sistemas ERP.
+- **Customer Support** at [VGM Sistemas](https://www.linkedin.com/company/vgm-sistemas/?originalSubdomain=ar) (Nov 2015 - Sep 2016)
+  - Managed queries and provided support for ERP systems.
 
-## 📚 Formación Académica
+## 📚 Academic Background
 
 - **Full Stack Web Developer:** Henry Bootcamp (2024)
-- **Analista Universitario de Sistemas:** UTN Facultad Regional Resistencia (2004 - 2012)
+- **Systems Analyst:** UTN Regional Faculty of Resistencia (2004 - 2012)
 
-## 📖 Educación Complementaria
+## 📖 Additional Education
 
-- **Professional Testing Master:** UTN BA (2022)
+- **Professional Testing Master:** UTN Buenos Aires (2022)
 
-## 🌟 Otros Logros y Experiencias
+## 🌟 Other Achievements and Experiences
 
-- **Fundador** de [Fokuá Foto](https://instagram.com/fokuafoto) (ene. 2019 - dic. 2023)
-  - Coberturas fotográficas de eventos sociales y deportivos.
+- **Founder** of [Fokuá Foto](https://instagram.com/fokuafoto) (Jan 2019 - Dec 2023)
+  - Photographic coverage of social and sporting events.
   
-- **Director de Turismo** en [Municipalidad de Saladas](https://saladas.gob.ar/) (dic. 2021 - nov. 2022)
-  - Implementación de redes sociales y promoción de actividades turísticas.
+- **Director of Tourism** at [Municipality of Saladas](https://saladas.gob.ar/) (Dec 2021 - Nov 2022)
+  - Implementation of social media strategies and promotion of tourism activities.
 
-- **Miembro de la Comisión Directiva** en [Bomberos Voluntarios de Saladas](https://www.facebook.com/BomberosVoluntariosSaladas) (jun. 2018 - jun. 2023)
+- **Board Member** at [Voluntary Firefighters of Saladas](https://www.facebook.com/BomberosVoluntariosSaladas) (Jun 2018 - Jun 2023)
 
-## 🌐 Contacto
+## 🌐 Contact
 
 - **Email:** [marcosportillo111@gmail.com](mailto:marcosportillo111@gmail.com)
 - **LinkedIn:** [Marcos Anselmo Portillo](https://linkedin.com/in/marcos-anselmo-portillo-94318015/)
 
 ---
 
-¡Conectemos y trabajemos juntos para transformar ideas en realidad!
+Let's connect and work together to turn ideas into reality!
 
 ---
 
