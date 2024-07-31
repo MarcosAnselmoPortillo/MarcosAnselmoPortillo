@@ -8,16 +8,16 @@
 
 ## About Me
 
-Welcome to my GitHub profile! I'm **Marcos Anselmo Portillo**, a passionate Backend Developer with a solid background as a Systems Analyst. I specialize in developing backend solutions using modern technologies and agile methodologies. I enjoy solving complex problems and working in teams to create efficient and scalable applications.
+Welcome to my GitHub profile! I'm **Marcos Anselmo Portillo**, a passionate Full Stack Developer with a solid background as a Systems Analyst. I specialize in developing full stack solutions using modern technologies and agile methodologies. I enjoy solving complex problems and working in teams to create efficient and scalable applications.
 
 ## 🛠️ Technologies and Skills
 
 - **Programming Languages:** JavaScript, TypeScript.
-- **Frameworks and Libraries:** NodeJS, NestJS.
-- **Databases:** PostgreSQL.
-- **Version Control:** Git.
+- **Frameworks and Libraries:** NodeJS, NestJS, Next.JS, Express, Swagger, React, Bootstrap, Tailwind CSS. 
+- **Databases:** PostgreSQL, MongoDB, Mongoose, TypeORM.
+- **Version Control:** Git, GitHub.
 - **Methodologies:** Agile (Scrum).
-- **Other Tools:** Jira, Confluence, Slack.
+- **Other Tools and Technologies** Docker, JWT, Jira, Slack.
 
 ## 🚀 Featured Projects
 
